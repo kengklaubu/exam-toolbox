@@ -53,7 +53,7 @@ git checkout -b feature/search_by_name
 git checkout -b feature/edit_course_by_code  
 git checkout -b feature/delete_course_by_code  
 
-18. ทำการ commit และ push ไปที่ GitHub
+18. ทำการ commit และ push ไปที่ GitHub  
 git add .
 git commit -m "Add feature to show courses"
 
