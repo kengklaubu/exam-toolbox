@@ -1,2 +1,4 @@
 # exam-toolbox
-for exam
+winget install GitHub.cli  
+
+
