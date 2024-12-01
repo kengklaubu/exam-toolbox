@@ -1,15 +1,15 @@
 1. สร้าง repository บน GitHub  
-gh repo create web-project --public --confirm
+gh repo create your-reposity-name --public --confirm
 
 2. สร้างโฟลเดอร์โปรเจคและเข้าไปที่โฟลเดอร์นั้น  
-mkdir web-project
-cd web-project
+mkdir your-reposity-name
+cd your-reposity-name
 
 3. เริ่มต้น Git repository  
 git init
 
 4. เชื่อมต่อกับ GitHub repository  
-git remote add origin https://github.com/kengklaubu/web-project.git
+git remote add origin https://github.com/your-usernameyour-reposity-name.git
 
 5. สร้างไฟล์ README.md และ .gitignore  
 echo "# Web Project" > README.md  
