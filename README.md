@@ -78,7 +78,8 @@ echo flask > requirements.txt
 echo requests >> requirements.txt  
 echo gunicorn >> requirements.txt
 
-21. สร้างไฟล์ Python app.py #สามารถใช้ print("Hello world")เฉยๆก็ได้  
+#แนะนำถ้าต้องการใช้โค้ดข้างล่างให้คัดลอกโค้ดไปวางใน notepad แล้วบันทึกจะดีกว่า
+21. สร้างไฟล์ Python app.py #สามารถใช้ print("Hello world")เฉยๆก็ได้    
 echo from flask import Flask, jsonify > app.py  
 echo app = Flask(__name__) >> app.py  
 echo @app.route('/') >> app.py  
