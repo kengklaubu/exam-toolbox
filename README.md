@@ -56,7 +56,6 @@ git checkout -b feature/delete_course_by_code
 18. ทำการ commit และ push ไปที่ GitHub  
 git add .  
 git commit -m "Add feature to show courses"  
-
 git push -u origin feature/show_courses  
 git push -u origin feature/search_by_code  
 git push -u origin feature/search_by_name  
